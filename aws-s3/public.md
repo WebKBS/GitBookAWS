@@ -92,7 +92,7 @@
 
 우선 그전에 AWS IAM에 대해서 알아보자.
 
-{% content-ref url="../aws-iam.md" %}
-[aws-iam.md](../aws-iam.md)
+{% content-ref url="../aws-iam/" %}
+[aws-iam](../aws-iam/)
 {% endcontent-ref %}
 
