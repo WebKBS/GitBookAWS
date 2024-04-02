@@ -1,13 +1,11 @@
 ---
-description: aws s3 사용 방법
+description: aws cli 설치
 ---
 
-# AWS S3
+# AWS
 
-학습용으로 노트한것이며
+aws를 기본적으로 사용하기 위해 aws cli를 설치해야한다.
 
-제작된 버킷은 삭제될 예정이며 해당 키나 코드는 삭제됩니다.
+다음 공식홈페이지에서 설치 가이드에 따라 설치하면 된다.
 
-
-
-2024년 1월 18일 기준이며 이후 본 페이지의 이미지 UI는 변경될수 있음.
+{% embed url="https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.html" %}
